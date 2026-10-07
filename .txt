@@ -1,0 +1,24 @@
+Perguntas para definir o projeto
+1. Qual problema o agente irá resolver?
+
+Dúvidas na organização da gravação e produção, assim como outros assuntos musicais
+
+2. Quem utilizará o agente?
+
+Essencialmente músicos, produtores musicais, engenheiro de som e relacionados. Mas também pessoas fora da área ou iniciantes.
+
+3. Qual será a função principal dele?
+
+Auxiliar na organização da produção, gravação e direção criativa do áudio. Fornecer dicas gerais técnicas e criativas. Buscar referências de outros artistas ou apenas comentar outros trabalhos e de quem usará o agente
+
+4. Que tipo de informação o usuário fornecerá?
+
+Perguntas sobre a organização da produção e gravação. Pesquisa sobre outros artistas. Pedidos de análise musical
+
+5. Qual tipo de resposta o agente deverá produzir?
+
+Uma resposta técnica, didática e sucinta sobre derivados assuntos musicais para o bom entendimento do usuário de diferentes idades e níveis de conhecimento sobre o assunto
+
+6. Em quais situações o agente será útil?
+
+Situações em que precisará gravar ou captar uma boa qualidade de áudio e também como uma ferramenta de estudo para músicos
