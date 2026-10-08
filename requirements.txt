@@ -1,7 +1,7 @@
 streamlit
 librosa
+matplotlib
 numpy
-subprocess
-os
-sys
+soundfile
 plotly
+demucs
