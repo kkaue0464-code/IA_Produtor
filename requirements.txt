@@ -1,0 +1,7 @@
+streamlit
+librosa
+numpy
+subprocess
+os
+sys
+plotly
